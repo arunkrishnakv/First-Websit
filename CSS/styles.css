@@ -1,0 +1,28 @@
+body {
+  background-color: #fdbfb3;
+}
+
+hr {
+  background-color: powderblue;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: medium;
+  height: 0;
+}
+img {
+  height:160px;
+}
+
+h3 {
+  background-color: #66BFBF;
+  color: yellow;
+}
+
+h1 {
+  background-color: #66BFBF;
+  color:yellow;
+}
+
+h3:hover {
+  color: red;
+}
